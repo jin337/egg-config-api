@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "strict":"off",
+    "dot-notation":"off"
+  }
+}
